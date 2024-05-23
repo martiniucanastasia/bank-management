@@ -2,7 +2,7 @@ bank-management
 
 ## DEMO
 
-[LINK]
+[[LOOM]](https://www.loom.com/share/f114a66e8c504585ad64f6871562c146)
 
 ## Requested Features
 
